@@ -10,7 +10,7 @@ namespace GeometryShapeTests
     public class TriangleTest
     {
         const double area = 4.15;
-        const double perimeter = 10;
+        const double perimeter = 11;
         const int a = 3;
         const int b = 5;
         const int c = 3;
