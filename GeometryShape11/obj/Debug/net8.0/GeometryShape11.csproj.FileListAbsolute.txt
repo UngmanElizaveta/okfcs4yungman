@@ -1,0 +1,11 @@
+C:\Users\Maibenben\OneDrive\Рабочий стол\GeometryShape11\bin\Debug\net8.0\GeometryShape11.deps.json
+C:\Users\Maibenben\OneDrive\Рабочий стол\GeometryShape11\bin\Debug\net8.0\GeometryShape11.dll
+C:\Users\Maibenben\OneDrive\Рабочий стол\GeometryShape11\bin\Debug\net8.0\GeometryShape11.pdb
+C:\Users\Maibenben\OneDrive\Рабочий стол\GeometryShape11\obj\Debug\net8.0\GeometryShape11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maibenben\OneDrive\Рабочий стол\GeometryShape11\obj\Debug\net8.0\GeometryShape11.AssemblyInfoInputs.cache
+C:\Users\Maibenben\OneDrive\Рабочий стол\GeometryShape11\obj\Debug\net8.0\GeometryShape11.AssemblyInfo.cs
+C:\Users\Maibenben\OneDrive\Рабочий стол\GeometryShape11\obj\Debug\net8.0\GeometryShape11.csproj.CoreCompileInputs.cache
+C:\Users\Maibenben\OneDrive\Рабочий стол\GeometryShape11\obj\Debug\net8.0\GeometryShape11.dll
+C:\Users\Maibenben\OneDrive\Рабочий стол\GeometryShape11\obj\Debug\net8.0\refint\GeometryShape11.dll
+C:\Users\Maibenben\OneDrive\Рабочий стол\GeometryShape11\obj\Debug\net8.0\GeometryShape11.pdb
+C:\Users\Maibenben\OneDrive\Рабочий стол\GeometryShape11\obj\Debug\net8.0\ref\GeometryShape11.dll
