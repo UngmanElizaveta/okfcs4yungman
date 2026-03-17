@@ -100,3 +100,4 @@ C:\Users\Maibenben\OneDrive\Рабочий стол\GeometryShapeTests\obj\Debug
 C:\Users\Maibenben\OneDrive\Рабочий стол\GeometryShapeTests\obj\Debug\net8.0\GeometryShapeTests.pdb
 C:\Users\Maibenben\OneDrive\Рабочий стол\GeometryShapeTests\obj\Debug\net8.0\GeometryShapeTests.genruntimeconfig.cache
 C:\Users\Maibenben\OneDrive\Рабочий стол\GeometryShapeTests\obj\Debug\net8.0\ref\GeometryShapeTests.dll
+C:\Users\Maibenben\OneDrive\Рабочий стол\GeometryShapeTests\obj\Debug\net8.0\GeometryShapeTests.sourcelink.json

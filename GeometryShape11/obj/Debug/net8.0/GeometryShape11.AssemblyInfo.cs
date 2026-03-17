@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("GeometryShapeTests")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("GeometryShape11")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dc427a4ee46ddb0940e26bb46b20fb0ee262c882")]
-[assembly: System.Reflection.AssemblyProductAttribute("GeometryShapeTests")]
-[assembly: System.Reflection.AssemblyTitleAttribute("GeometryShapeTests")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyProductAttribute("GeometryShape11")]
+[assembly: System.Reflection.AssemblyTitleAttribute("GeometryShape11")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Создано классом WriteCodeFragment MSBuild.
